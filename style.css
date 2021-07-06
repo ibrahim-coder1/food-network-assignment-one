@@ -74,7 +74,7 @@ body {
 
 .textarea {
     width: 50%;
-    margin-top: 150px;
+    margin-top: 180px;
     margin-left: 10%;
     margin-right: 5%;
 }
@@ -103,7 +103,7 @@ body {
 }
 .images {
     width: 50%;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 
 .images img { 
